@@ -1,0 +1,81 @@
+E:\Python\python.exe E:/PythonConsole/FC15/model_v1.0.py
+tower nums:3
+tower level splited by ,:2,2,2
+Troop in attack online:0
+Troop in defense online:0
+Troop in total:85
+Rounds num£º16
+Expection Value:170.2
+Tech now:1.5
+{'LAP': 5.297427327849953,
+ 'LDP': 5.297427327849953,
+ 'action_num': 14.44752907595442,
+ 'tech_force': 2.2633138476715073e-06,
+ 'tech_strategy': 0.2572588178001841,
+ 'tower_level': 4.815843025318139,
+ 'tower_num': 7.22376453797721}
+
+Process finished with exit code 0
+
+
+
+E:\Python\python.exe E:/PythonConsole/FC15/model_v1.0.py
+tower nums:3
+tower level splited by ,:2,2,3
+Troop in attack online:42
+Troop in defense online:0
+Troop in total:153
+Rounds num£º4
+Expection Value:230.7
+Tech now:4.8
+{'LAP': 0.8251725626808015,
+ 'LDP': 0.8251725626808015,
+ 'action_num': 2.250470625493095,
+ 'tech_force': 0.11239329640068026,
+ 'tech_strategy': 0.47052599629487246,
+ 'tower_level': 0.7501568751643649,
+ 'tower_num': 1.1252353127465475}
+
+Process finished with exit code 0
+
+
+
+E:\Python\python.exe E:/PythonConsole/FC15/model_v1.0.py
+tower nums:3
+tower level splited by ,:3,3,3
+Troop in attack online:9.9
+Troop in defense online:3.3
+Troop in total:201.7
+Rounds num£º1
+Expection Value:208
+Tech now:6.17
+{'LAP': 0.2865906886882447,
+ 'LDP': 0.2865906886882447,
+ 'action_num': 0.7816109691497583,
+ 'tech_force': 0.00024069161298491797,
+ 'tech_strategy': 0.017359898764494876,
+ 'tower_level': 0.260536989716586,
+ 'tower_num': 0.3908054845748791}
+
+Process finished with exit code 0
+
+
+
+E:\Python\python.exe E:/PythonConsole/FC15/model_v1.0.py
+tower nums:3
+tower level splited by ,:4,3,2
+Troop in attack online:42
+Troop in defense online:202
+Troop in total:228
+Rounds num£º1
+Expection Value:236
+Tech now:5
+{'LAP': 0.10154776642272824,
+ 'LDP': 0.10154776642272824,
+ 'action_num': 0.2769484538801678,
+ 'tech_force': 8.048016987854034e-50,
+ 'tech_strategy': 1.6278500160904414e-26,
+ 'tower_level': 0.09231615129338926,
+ 'tower_num': 0.1384742269400839}
+
+Process finished with exit code 0
